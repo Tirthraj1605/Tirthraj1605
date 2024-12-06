@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/programming-coding-banner-flat-design-260nw-505868842.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthraj1605&label=Profile%20views&color=0e75b6&style=flat" alt="tirthraj1605" /> </p>
 
-- 📝 I regularly write articles on [https://tirthraj-bhalodiya.hashnode.dev/](https://tirthraj-bhalodiya.hashnode.dev/)
+- 📝 I write articles on [https://tirthraj-bhalodiya.hashnode.dev/](https://tirthraj-bhalodiya.hashnode.dev/)
 
 - 💬 Ask me about **Machine Learning**
 
