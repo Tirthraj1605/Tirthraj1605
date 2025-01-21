@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/tirthraj bhalodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirthraj bhalodiya" height="30" width="40" /></a>
 <a href="https://kaggle.com/tirthraj1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tirthraj1605" height="30" width="40" /></a>
 <a href="https://instagram.com/tirthraj_1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirthraj_1605" height="30" width="40" /></a>
-<a href="[https://tirthraj-bhalodiya.hashnode.dev](https://tirthraj-bhalodiya.hashnode.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="tirthraj-bhalodiya.hashnode.dev" height="30" width="40" /></a>
+<a href="https://dev.to/tirthraj-bhalodiya.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="tirthraj-bhalodiya.hashnode.dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tirthraj_1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tirthraj_1605" height="30" width="40" /></a>
 </p>
 
